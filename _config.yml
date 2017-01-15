@@ -3,8 +3,8 @@ title: Campaign Stop
 subtitle: by two random dudes 
 email: youremailaddress@gmail.com
 description: 'A knowledge base for non-career <br />politicians to jump-start their first campaign'
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+baseurl: "/campaign-stop" # the subpath of your site, e.g. /blog
+url: "https://nolski.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
