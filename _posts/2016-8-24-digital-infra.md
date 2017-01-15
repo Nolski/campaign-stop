@@ -43,8 +43,47 @@ which makes it very easy to hook up your own website.
 
 #### Open Opportunities
 
+<span class="image left"><img src="{{ site.baseurl }}/assets/images/openopps.png" alt="website template" /></span>
 Originally, Open Opportunities was created as a network of federal employees
 that will lead to a more effective, efficient, responsive government by sharing
 skills and collaborating on projects that support the mission of an agency or
 the government as a whole.
+
+OpenOpps is the open source platform that supports the Open Opportunities
+program. As open source software, it can be deployed by state or local
+governments or in the private sector. It is free to use by anyone who can has
+technical operations staff and passion to start a new program, and we welcome
+everyone who would like to contribute to improving the platform.
+
+You can find the code on Github [here](https://github.com/openopps/openopps-platform)
+
+#### CiviCRM
+
+CiviCRM is an open source CRM built by a community of contributors and
+supporters, and coordinated by the Core Team. CiviCRM is web-based software used
+by a diverse range of organisations, particularly not-for-profit organizations
+(nonprofts and civic sector organizations). CiviCRM offers a complete feature
+set out of the box and can integrate with your website.
+
+This makes it a great Free and Open Source tool for keeping track of your
+constituents. 
+
+##### Some features include:
+
+ * Fund raising - Contribution Management
+ * Accounting Software Compatible
+ * Contact Management for:
+    * Volunteers
+    * Supporters
+    * Donors	
+ * Email Marketing Tools
+ * Event Management
+ * Reporting
+
+#### Wild Apricot CRM
+
+Wild Apricot is a CRM software package meant for nonprofit organizations. It is
+mostly used for 
+
+##### Some features include:
 
