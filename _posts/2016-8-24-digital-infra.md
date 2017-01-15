@@ -86,4 +86,59 @@ Wild Apricot is a CRM software package meant for nonprofit organizations. It is
 mostly used for 
 
 ##### Some features include:
+* Fundraising - Contribution Management
+* Membership Management
+  * Volunteers
+  * Supporters
+  * Donors	
+* Event Management
+* Email Marketing Tools
+* Website
+* Reporting
 
+#### NGPVAN
+
+<span class="image right"><img src="{{ site.baseurl }}/assets/images/ngpvan.png" alt="website template" /></span>
+NGPVAN is one of the leading CRM solutions for running a campaign. Unfortunately
+it's not an open source solution but it's the most widely used.
+
+##### Some features include:
+
+* Campaign Analysis
+* Contact Management
+* Contribution Tracking
+* Demographic Data
+* Donor Targeting
+* Email Marketing
+* Fundraising Management
+* Mapping
+* Online Payment Processing
+* Volunteer Management
+* Voter Database
+
+## Canvasing
+
+#### Field The Bern
+<span class="image left" ><video style="height:320px;" src="{{ site.baseurl }}/assets/images/fieldthebern.mp4" autoplay></video></span>
+
+FieldTheBern was an open source app that helps you go door to door and canvass
+for Bernie Sanders. Since it is open source it can easily be modified to use for
+your own campaign Knock on doors, tell people about your candidate, find out
+their level of interest. Next to phonebanking, canvassing is probably the second
+most crucial and effective way to get votes. The app allows volunteers to enter
+data about the visit. 
+
+For example: if no one was home, or the resident strongly
+supports your candidate, and if they have been contacted before, or want to be
+contacted again. A map shows pins for houses that have already been visited so
+that other volunteers don't overlap each other. The app also supports
+integration for including information about your candidate (cached for offline)
+as well as primary and caucus dates and info for all 50 states. Canvassers can
+also track progress and score points and compete with other volunteers.
+
+
+There are both [iOS](https://itunes.apple.com/us/app/field-the-bern/id1061795493?mt=8)
+as well as [Android](https://play.google.com/store/apps/details?id=com.berniesanders.fieldthebern&hl=en)
+apps. Both apps are hosted on github [here for iOS](https://github.com/Bernie-2016/fieldthebern-ios),
+[here for Android](https://github.com/Bernie-2016/fieldthebern-android) and the
+shared API can be found [here](https://github.com/Bernie-2016/fieldthebern-api).
